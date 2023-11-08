@@ -9,6 +9,7 @@ const theme = {
     black: '#000000',
     red: '#FF0000',
     blue: '#0000FF',
+    beige: '#fcfcd5',
   },
   spacing: value => `${value * 4}px`,
 };
